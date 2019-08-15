@@ -1,5 +1,6 @@
-# pawansohlot-
+# missioniteducation resources
 
+Added by @chaudharypawansohlot
 
 # OSCP_BIBLE
 This is a collection of resources, scripts, bookmarks, writeups, notes, cheatsheets that will help you in OSCP Preparation as well as for general pentesting and learning. 
